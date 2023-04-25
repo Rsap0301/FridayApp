@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/etmenu1"
+        android:icon="@drawable/ic_filter"
+        android:title="Instagram" />
+
+    <item
+        android:id="@+id/etmenu2"
+        android:icon="@drawable/ic_settings"
+        android:title="Setting"/>
+
+    <item
+        android:id="@+id/etmenu3"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout"/>
+
+</menu>
